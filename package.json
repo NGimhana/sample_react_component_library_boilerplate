@@ -28,7 +28,7 @@
   },
   "dependencies": {
     "@material-ui/core": "^3.9.3",
-    "axios": "^0.18.0",
+    "axios": ">=0.18.1",
     "react": "^16.7.0",
     "react-dom": "^16.7.0",
     "prop-types": "latest"
